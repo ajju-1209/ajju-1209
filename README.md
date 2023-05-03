@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node,Express,Django,Sql**
 
-- 📫 How to reach me **abhishekpant1990@gmail.com**
+<!-- - 📫 How to reach me **abhishekpant1990@gmail.com** -->
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1blkdDgVxLGodbmQLvR9HqFnyPcRMWec-/view?usp=sharing](https://drive.google.com/file/d/1blkdDgVxLGodbmQLvR9HqFnyPcRMWec-/view?usp=sharing)
+- 📄 My Resume [link](https://drive.google.com/file/d/1blkdDgVxLGodbmQLvR9HqFnyPcRMWec-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
