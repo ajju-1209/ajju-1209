@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying in **Motilal Nehru National Institute of Technology Allahabad**
 
-- 🌱 I’m currently learning **Node,Express,Django,Sql**
+- 🌱 I’m currently learning **Node js,Express js**
 
 <!-- - 📫 How to reach me **abhishekpant1990@gmail.com** -->
 
